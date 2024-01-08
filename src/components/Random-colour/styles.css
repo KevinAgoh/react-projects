@@ -1,0 +1,21 @@
+.button-wrapper {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 16px;
+}
+
+button {
+  margin-bottom: 8px;
+  background: beige;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 3px 23px;
+  padding: 16px;
+  text-align: center;
+  border: none;
+}
+
+.colour-wrapper {
+  align-self: center;
+  font-size: 32px;
+}
